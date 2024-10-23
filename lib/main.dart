@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 //page
-import 'ui/recommendPage.dart';
-import 'ui/calenderAndCordinatePage.dart';
-import 'ui/closetPage.dart';
+import 'ui/page/recommendPage.dart';
+import 'ui/page/calenderAndCordinatePage.dart';
+import 'ui/page/closetPage.dart';
 
 void main() {
   runApp(const MyApp());
